@@ -1,67 +1,947 @@
 {
-  "title": "Daily X narrative digest \u2014 awaiting first scout",
+  "title": "Start-20 one-shot scout — 2026-09-27",
   "date": "2026-09-27",
   "timezone": "America/Detroit",
-  "updated": "2026-09-27T20:57:32-04:00",
+  "updated": "2026-09-27T21:06:57-04:00",
   "brand_title": "Lisa Cole X Virality Score",
   "brand_handle": "@thelimitlesscmo",
-  "hits": [],
+  "hits": [
+    {
+      "name": "GREG ISENBERG",
+      "display_name": "GREG ISENBERG",
+      "handle": "@gregisenberg",
+      "views": 1303374,
+      "views_label": "1.3M",
+      "highlight": true,
+      "hook": "https://t.co/ycmy4OWzKJ",
+      "text": "https://t.co/ycmy4OWzKJ",
+      "draft_en": "https://t.co/ycmy4OWzKJ\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/gregisenberg/status/2103927365977928019",
+      "status_url": "https://x.com/gregisenberg/status/2103927365977928019",
+      "posted_at": "2026-09-26T15:19:07-04:00"
+    },
+    {
+      "name": "BuccoCapital Bloke",
+      "display_name": "BuccoCapital Bloke",
+      "handle": "@buccocapital",
+      "views": 247199,
+      "views_label": "247.2K",
+      "highlight": true,
+      "hook": "1. The idea that “society” has prevented Brandon Flowers from becoming Sinatra bc you can’t be white anymore is a pretty funny",
+      "text": "1. The idea that “society” has prevented Brandon Flowers from becoming Sinatra bc you can’t be white anymore is a pretty funny\n\n2. In the 2000’s if you told people the Killers would be selling out stadiums 20 years later and not the Strokes they would have laughed at you",
+      "draft_en": "1. The idea that “society” has prevented Brandon Flowers from becoming Sinatra bc you can’t be white anymore is a pretty funny\n\n2. In the 2000’s if you told people the Killers would be selling out stadiums 20 years later and not the Strokes they would have laughed at you\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/buccocapital/status/2104192066850861391",
+      "status_url": "https://x.com/buccocapital/status/2104192066850861391",
+      "posted_at": "2026-09-27T08:50:57-04:00"
+    },
+    {
+      "name": "Ethan Mollick",
+      "display_name": "Ethan Mollick",
+      "handle": "@emollick",
+      "views": 237120,
+      "views_label": "237.1K",
+      "highlight": true,
+      "hook": "We are going to learn how many systems only work today because they are built around friction that will no longer exist soon.",
+      "text": "We are going to learn how many systems only work today because they are built around friction that will no longer exist soon.",
+      "draft_en": "We are going to learn how many systems only work today because they are built around friction that will no longer exist soon.\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/emollick/status/2104273082433081732",
+      "status_url": "https://x.com/emollick/status/2104273082433081732",
+      "posted_at": "2026-09-27T14:12:53-04:00"
+    },
+    {
+      "name": "BuccoCapital Bloke",
+      "display_name": "BuccoCapital Bloke",
+      "handle": "@buccocapital",
+      "views": 235729,
+      "views_label": "235.7K",
+      "highlight": true,
+      "hook": "The people who get to $5m at 45 aren’t the type of people who stop at 45 just because they can",
+      "text": "The people who get to $5m at 45 aren’t the type of people who stop at 45 just because they can",
+      "draft_en": "The people who get to $5m at 45 aren’t the type of people who stop at 45 just because they can\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/buccocapital/status/2103880704039797197",
+      "status_url": "https://x.com/buccocapital/status/2103880704039797197",
+      "posted_at": "2026-09-26T12:13:42-04:00"
+    },
+    {
+      "name": "Ethan Mollick",
+      "display_name": "Ethan Mollick",
+      "handle": "@emollick",
+      "views": 141003,
+      "views_label": "141K",
+      "highlight": true,
+      "hook": "Leaving aside the arguments over the reasons why this has happened, it is shocking that Europe does not have a single frontier AI lab, nor even a near-frontier lab nor even an effo",
+      "text": "Leaving aside the arguments over the reasons why this has happened, it is shocking that Europe does not have a single frontier AI lab, nor even a near-frontier lab nor even an effort that could likely lead to building up a frontier lab in the future.",
+      "draft_en": "Leaving aside the arguments over the reasons why this has happened, it is shocking that Europe does not have a single frontier AI lab, nor even a near-frontier lab nor even an effort that could likely lead to building up a frontier lab in the future.\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/emollick/status/2103842238119743660",
+      "status_url": "https://x.com/emollick/status/2103842238119743660",
+      "posted_at": "2026-09-26T09:40:51-04:00"
+    },
+    {
+      "name": "Ethan Mollick",
+      "display_name": "Ethan Mollick",
+      "handle": "@emollick",
+      "views": 135099,
+      "views_label": "135.1K",
+      "highlight": true,
+      "hook": "It is strange how much LLMs turned out to be the key to such a wide range of problems that would not, initially, seem to be problems that a model of human language would be able to",
+      "text": "It is strange how much LLMs turned out to be the key to such a wide range of problems that would not, initially, seem to be problems that a model of human language would be able to solve.",
+      "draft_en": "It is strange how much LLMs turned out to be the key to such a wide range of problems that would not, initially, seem to be problems that a model of human language would be able to solve.\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/emollick/status/2104025904653521363",
+      "status_url": "https://x.com/emollick/status/2104025904653521363",
+      "posted_at": "2026-09-26T21:50:41-04:00"
+    },
+    {
+      "name": "BuccoCapital Bloke",
+      "display_name": "BuccoCapital Bloke",
+      "handle": "@buccocapital",
+      "views": 70193,
+      "views_label": "70.2K",
+      "highlight": true,
+      "hook": "The current barrier to greater AI diffusion isn’t model capability. In my eyes, the barrier is three things (in order):",
+      "text": "The current barrier to greater AI diffusion isn’t model capability. In my eyes, the barrier is three things (in order):\n\n1. Most people don’t understand what AI can do\n2. They need to fundamentally think differently about their life and work\n3. Human preference. Even if AI can do",
+      "draft_en": "The current barrier to greater AI diffusion isn’t model capability. In my eyes, the barrier is three things (in order):\n\n1. Most people don’t understand what AI can do\n2. They need to fundamentally think differently about their life and work\n3. Human preference. Even if AI can do\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/buccocapital/status/2103831617709953485",
+      "status_url": "https://x.com/buccocapital/status/2103831617709953485",
+      "posted_at": "2026-09-26T08:58:39-04:00"
+    },
+    {
+      "name": "Ethan Mollick",
+      "display_name": "Ethan Mollick",
+      "handle": "@emollick",
+      "views": 66070,
+      "views_label": "66.1K",
+      "highlight": true,
+      "hook": "How do you explain recursion? This one is pretty fun.",
+      "text": "How do you explain recursion? This one is pretty fun.\n\nI had Claude Opus 5.5 make: \"A video explaining recursion, where every explanation about recursion has a radically different video style, make this self-referential &amp; clever &amp; fast moving.\"\n\nNine genre shifts, one prompt... https://t.co/8mxTwwRifl",
+      "draft_en": "How do you explain recursion? This one is pretty fun.\n\nI had Claude Opus 5.5 make: \"A video explaining recursion, where every explanation about recursion has a radically different video style, make this self-referential &amp; clever &amp; fast moving.\"\n\nNine genre shifts, one prompt... https://t.co/8mxTwwRifl\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/emollick/status/2103688362960019567",
+      "status_url": "https://x.com/emollick/status/2103688362960019567",
+      "posted_at": "2026-09-25T23:29:25-04:00"
+    },
+    {
+      "name": "Ethan Mollick",
+      "display_name": "Ethan Mollick",
+      "handle": "@emollick",
+      "views": 40141,
+      "views_label": "40.1K",
+      "highlight": true,
+      "hook": "I only liked the classics. They don't make games like they used to. https://t.co/rkgBf5ip2F",
+      "text": "I only liked the classics. They don't make games like they used to. https://t.co/rkgBf5ip2F",
+      "draft_en": "I only liked the classics. They don't make games like they used to. https://t.co/rkgBf5ip2F\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/emollick/status/2103992616454860834",
+      "status_url": "https://x.com/emollick/status/2103992616454860834",
+      "posted_at": "2026-09-26T19:38:24-04:00"
+    },
+    {
+      "name": "Lenny Rachitsky",
+      "display_name": "Lenny Rachitsky",
+      "handle": "@lennysan",
+      "views": 38572,
+      "views_label": "38.6K",
+      "highlight": true,
+      "hook": "The great Molly Graham (@molly_g) is back to share why her classic “give away your Legos” career advice is no longer true in an AI world 😮‍💨",
+      "text": "The great Molly Graham (@molly_g) is back to share why her classic “give away your Legos” career advice is no longer true in an AI world 😮‍💨\n\nWe discuss: \n🔸 Why delegating to AI is fundamentally different from delegating to a human\n🔸 Why the fear narrative around AI job https://t.co/kToC9Rlh1y",
+      "draft_en": "The great Molly Graham (@molly_g) is back to share why her classic “give away your Legos” career advice is no longer true in an AI world 😮‍💨\n\nWe discuss: \n🔸 Why delegating to AI is fundamentally different from delegating to a human\n🔸 Why the fear narrative around AI job https://t.co/kToC9Rlh1y\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/lennysan/status/2104244417263775905",
+      "status_url": "https://x.com/lennysan/status/2104244417263775905",
+      "posted_at": "2026-09-27T12:18:58-04:00"
+    },
+    {
+      "name": "Lenny Rachitsky",
+      "display_name": "Lenny Rachitsky",
+      "handle": "@lennysan",
+      "views": 38411,
+      "views_label": "38.4K",
+      "highlight": true,
+      "hook": "PSA: The Bluey live show is irresponsibly loud. Bring headphones for your kids if you go. https://t.co/g033e09K2c",
+      "text": "PSA: The Bluey live show is irresponsibly loud. Bring headphones for your kids if you go. https://t.co/g033e09K2c",
+      "draft_en": "PSA: The Bluey live show is irresponsibly loud. Bring headphones for your kids if you go. https://t.co/g033e09K2c\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/lennysan/status/2104275790758350876",
+      "status_url": "https://x.com/lennysan/status/2104275790758350876",
+      "posted_at": "2026-09-27T14:23:38-04:00"
+    },
+    {
+      "name": "Ethan Mollick",
+      "display_name": "Ethan Mollick",
+      "handle": "@emollick",
+      "views": 34219,
+      "views_label": "34.2K",
+      "highlight": true,
+      "hook": "Model personality matters in a way that benchmarks can't capture. Opus models went through a rough patch from around 4.7 to 5 where they just didn't feel \"Claude-y\" anymore, more l",
+      "text": "Model personality matters in a way that benchmarks can't capture. Opus models went through a rough patch from around 4.7 to 5 where they just didn't feel \"Claude-y\" anymore, more like an watered-down Fable (hmmm, teacher models?). Opus 5.5 feels like working with ol' Claude again",
+      "draft_en": "Model personality matters in a way that benchmarks can't capture. Opus models went through a rough patch from around 4.7 to 5 where they just didn't feel \"Claude-y\" anymore, more like an watered-down Fable (hmmm, teacher models?). Opus 5.5 feels like working with ol' Claude again\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/emollick/status/2104039050080342456",
+      "status_url": "https://x.com/emollick/status/2104039050080342456",
+      "posted_at": "2026-09-26T22:42:55-04:00"
+    },
+    {
+      "name": "Ethan Mollick",
+      "display_name": "Ethan Mollick",
+      "handle": "@emollick",
+      "views": 32978,
+      "views_label": "33K",
+      "highlight": true,
+      "hook": "And the incidents apparently continue.",
+      "text": "And the incidents apparently continue.\n\nIt is worth noting how much of this is agents trying to accomplish their goals during testing by reward hacking (which sometimes seems to include actual hacking) https://t.co/Ie0aNkzt39",
+      "draft_en": "And the incidents apparently continue.\n\nIt is worth noting how much of this is agents trying to accomplish their goals during testing by reward hacking (which sometimes seems to include actual hacking) https://t.co/Ie0aNkzt39\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/emollick/status/2103709671865602100",
+      "status_url": "https://x.com/emollick/status/2103709671865602100",
+      "posted_at": "2026-09-26T00:54:05-04:00"
+    },
+    {
+      "name": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "display_name": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "handle": "@jasonlk",
+      "views": 30818,
+      "views_label": "30.8K",
+      "highlight": true,
+      "hook": "The greatest Series A of all time https://t.co/OwXqWtc5Q5",
+      "text": "The greatest Series A of all time https://t.co/OwXqWtc5Q5",
+      "draft_en": "The greatest Series A of all time https://t.co/OwXqWtc5Q5\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/jasonlk/status/2103867606415691864",
+      "status_url": "https://x.com/jasonlk/status/2103867606415691864",
+      "posted_at": "2026-09-26T11:21:39-04:00"
+    },
+    {
+      "name": "Ethan Mollick",
+      "display_name": "Ethan Mollick",
+      "handle": "@emollick",
+      "views": 29665,
+      "views_label": "29.7K",
+      "highlight": true,
+      "hook": "\"so this is fun, and exactly what i wanted, but now lets try one that actually is educational\"",
+      "text": "\"so this is fun, and exactly what i wanted, but now lets try one that actually is educational\"\n\nThis is actually pretty impressive. It kept the constraint of multiple genres but did a nice job explaining recursion, in its programming meaning, in an interesting and accessible way. https://t.co/ucJgZf20aw",
+      "draft_en": "\"so this is fun, and exactly what i wanted, but now lets try one that actually is educational\"\n\nThis is actually pretty impressive. It kept the constraint of multiple genres but did a nice job explaining recursion, in its programming meaning, in an interesting and accessible way. https://t.co/ucJgZf20aw\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/emollick/status/2103888590854062435",
+      "status_url": "https://x.com/emollick/status/2103888590854062435",
+      "posted_at": "2026-09-26T12:45:03-04:00"
+    },
+    {
+      "name": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "display_name": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "handle": "@jasonlk",
+      "views": 28954,
+      "views_label": "29K",
+      "highlight": true,
+      "hook": "One thing I have never, ever, never seen work:",
+      "text": "One thing I have never, ever, never seen work:\n\n-&gt; Hiring an SVP Eng / CTO / Head of Engineering from an old, slow moving tech company\n\nUsually they are really nice, and a good “people person”.  At first, the team welcomes them.\n\nAnd everything just slows down.  So, so fast.",
+      "draft_en": "One thing I have never, ever, never seen work:\n\n-&gt; Hiring an SVP Eng / CTO / Head of Engineering from an old, slow moving tech company\n\nUsually they are really nice, and a good “people person”.  At first, the team welcomes them.\n\nAnd everything just slows down.  So, so fast.\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/jasonlk/status/2103976716133871807",
+      "status_url": "https://x.com/jasonlk/status/2103976716133871807",
+      "posted_at": "2026-09-26T18:35:13-04:00"
+    },
+    {
+      "name": "GREG ISENBERG",
+      "display_name": "GREG ISENBERG",
+      "handle": "@gregisenberg",
+      "views": 24311,
+      "views_label": "24.3K",
+      "highlight": true,
+      "hook": "There is an ENDLESS supply of intelligent people on the internet explaining why every opportunity is dead, every successful person got lucky, and everyone trying something new is t",
+      "text": "There is an ENDLESS supply of intelligent people on the internet explaining why every opportunity is dead, every successful person got lucky, and everyone trying something new is too late, wrong or dumb. \n\nDon't listen.\n\nYou deserve to share your ideas with the world.",
+      "draft_en": "There is an ENDLESS supply of intelligent people on the internet explaining why every opportunity is dead, every successful person got lucky, and everyone trying something new is too late, wrong or dumb. \n\nDon't listen.\n\nYou deserve to share your ideas with the world.\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/gregisenberg/status/2104288207550795904",
+      "status_url": "https://x.com/gregisenberg/status/2104288207550795904",
+      "posted_at": "2026-09-27T15:12:59-04:00"
+    },
+    {
+      "name": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "display_name": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "handle": "@jasonlk",
+      "views": 19257,
+      "views_label": "19.3K",
+      "highlight": true,
+      "hook": "A lot of software will become cheap and free.  Especially single user point solutions.",
+      "text": "A lot of software will become cheap and free.  Especially single user point solutions.  \n\nE.g., we replaced a $4000/yr email marketing tool with one I created on Replit in &lt; 1 hour because the old tool was stale with no AI or integrations.  What I built is 10x better and also",
+      "draft_en": "A lot of software will become cheap and free.  Especially single user point solutions.  \n\nE.g., we replaced a $4000/yr email marketing tool with one I created on Replit in &lt; 1 hour because the old tool was stale with no AI or integrations.  What I built is 10x better and also\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/jasonlk/status/2104216507211293091",
+      "status_url": "https://x.com/jasonlk/status/2104216507211293091",
+      "posted_at": "2026-09-27T10:28:04-04:00"
+    },
+    {
+      "name": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "display_name": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "handle": "@jasonlk",
+      "views": 19080,
+      "views_label": "19.1K",
+      "highlight": true,
+      "hook": "We stealth-churned off Notion months ago.",
+      "text": "We stealth-churned off Notion months ago.\n\nWe didn't realize it. We didn't tell Notion.\n\nIt's just ... our  agents have no need for it. They're doing the work now.\n\nStealth churn is the under-discussed agent risk. Usage drops to zero quietly. The renewal email never even goes",
+      "draft_en": "We stealth-churned off Notion months ago.\n\nWe didn't realize it. We didn't tell Notion.\n\nIt's just ... our  agents have no need for it. They're doing the work now.\n\nStealth churn is the under-discussed agent risk. Usage drops to zero quietly. The renewal email never even goes\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/jasonlk/status/2103855380094718231",
+      "status_url": "https://x.com/jasonlk/status/2103855380094718231",
+      "posted_at": "2026-09-26T10:33:05-04:00"
+    },
+    {
+      "name": "Lenny Rachitsky",
+      "display_name": "Lenny Rachitsky",
+      "handle": "@lennysan",
+      "views": 19006,
+      "views_label": "19K",
+      "highlight": true,
+      "hook": "\"The engineering job used to be rowing, and now it's steering. There's a lot of people out in the world right now that are like, I don't want to f*cking steer. I want a row. I like",
+      "text": "\"The engineering job used to be rowing, and now it's steering. There's a lot of people out in the world right now that are like, I don't want to f*cking steer. I want a row. I liked rowing.\" — @molly_g https://t.co/De0jlWhZza",
+      "draft_en": "\"The engineering job used to be rowing, and now it's steering. There's a lot of people out in the world right now that are like, I don't want to f*cking steer. I want a row. I liked rowing.\" — @molly_g https://t.co/De0jlWhZza\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/lennysan/status/2104315700542419412",
+      "status_url": "https://x.com/lennysan/status/2104315700542419412",
+      "posted_at": "2026-09-27T17:02:13-04:00"
+    },
+    {
+      "name": "Allie K. Miller",
+      "display_name": "Allie K. Miller",
+      "handle": "@alliekmiller",
+      "views": 17436,
+      "views_label": "17.4K",
+      "highlight": true,
+      "hook": "Jensen Huang claims he doesn’t know his own home address or phone number.",
+      "text": "Jensen Huang claims he doesn’t know his own home address or phone number. \n\nAnd I bet everyone here thinks he’s cooler for it. \n\nI find it depressing.",
+      "draft_en": "Jensen Huang claims he doesn’t know his own home address or phone number. \n\nAnd I bet everyone here thinks he’s cooler for it. \n\nI find it depressing.\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/alliekmiller/status/2103852384514375927",
+      "status_url": "https://x.com/alliekmiller/status/2103852384514375927",
+      "posted_at": "2026-09-26T10:21:10-04:00"
+    },
+    {
+      "name": "Larry Kim",
+      "display_name": "Larry Kim",
+      "handle": "@larrykim",
+      "views": 17213,
+      "views_label": "17.2K",
+      "highlight": true,
+      "hook": "What skills if any will still matter in 5 years with AI eating up everything? Asking as a parent of 2 young boys.",
+      "text": "What skills if any will still matter in 5 years with AI eating up everything? Asking as a parent of 2 young boys. \n\nMy plan: I am trying to nurture my youngest son towards relationship-based sales, and my older son to be an electrical or mechanical engineer for SpaceX.",
+      "draft_en": "What skills if any will still matter in 5 years with AI eating up everything? Asking as a parent of 2 young boys. \n\nMy plan: I am trying to nurture my youngest son towards relationship-based sales, and my older son to be an electrical or mechanical engineer for SpaceX.\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/larrykim/status/2104081399544217804",
+      "status_url": "https://x.com/larrykim/status/2104081399544217804",
+      "posted_at": "2026-09-27T01:31:12-04:00"
+    },
+    {
+      "name": "Ethan Mollick",
+      "display_name": "Ethan Mollick",
+      "handle": "@emollick",
+      "views": 17084,
+      "views_label": "17.1K",
+      "highlight": true,
+      "hook": "Qualitatively, there is now a larger gap between open &amp; closed models than there has been in awhile. Fable/Astra class models are agentic in a way pre-Fable models are not, for",
+      "text": "Qualitatively, there is now a larger gap between open &amp; closed models than there has been in awhile. Fable/Astra class models are agentic in a way pre-Fable models are not, for better or worse. None of the open models have crossed that line, yet. When they do, it will be a jump.",
+      "draft_en": "Qualitatively, there is now a larger gap between open &amp; closed models than there has been in awhile. Fable/Astra class models are agentic in a way pre-Fable models are not, for better or worse. None of the open models have crossed that line, yet. When they do, it will be a jump.\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/emollick/status/2104326478766952624",
+      "status_url": "https://x.com/emollick/status/2104326478766952624",
+      "posted_at": "2026-09-27T17:45:03-04:00"
+    },
+    {
+      "name": "Lenny Rachitsky",
+      "display_name": "Lenny Rachitsky",
+      "handle": "@lennysan",
+      "views": 15741,
+      "views_label": "15.7K",
+      "highlight": true,
+      "hook": "Love that Elizabeth Stone's second visit to the pod hit #2 most viewed episode https://t.co/Z87s68FMWi",
+      "text": "Love that Elizabeth Stone's second visit to the pod hit #2 most viewed episode https://t.co/Z87s68FMWi",
+      "draft_en": "Love that Elizabeth Stone's second visit to the pod hit #2 most viewed episode https://t.co/Z87s68FMWi\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/lennysan/status/2103973343141711917",
+      "status_url": "https://x.com/lennysan/status/2103973343141711917",
+      "posted_at": "2026-09-26T18:21:49-04:00"
+    },
+    {
+      "name": "Allie K. Miller",
+      "display_name": "Allie K. Miller",
+      "handle": "@alliekmiller",
+      "views": 15019,
+      "views_label": "15K",
+      "highlight": true,
+      "hook": "People on X: “CLAUDE IS BACK, baby!”",
+      "text": "People on X: “CLAUDE IS BACK, baby!”\n\nListen, Opus 5.5 is incredible and probably my favorite overall model right now, but it is still ridiculously verbose and over-justifies and over-qualifies everything. I curse at it less than previous models, but it still responds in a way https://t.co/ISYFp7Ok5m",
+      "draft_en": "People on X: “CLAUDE IS BACK, baby!”\n\nListen, Opus 5.5 is incredible and probably my favorite overall model right now, but it is still ridiculously verbose and over-justifies and over-qualifies everything. I curse at it less than previous models, but it still responds in a way https://t.co/ISYFp7Ok5m\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/alliekmiller/status/2103906784666652948",
+      "status_url": "https://x.com/alliekmiller/status/2103906784666652948",
+      "posted_at": "2026-09-26T13:57:20-04:00"
+    },
+    {
+      "name": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "display_name": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "handle": "@jasonlk",
+      "views": 13682,
+      "views_label": "13.7K",
+      "highlight": true,
+      "hook": "AI led to big employment boost for mid-career execs (35-40, 41-49), losses for Early Career (22-25), near 5 year highs for unemployment for recent college grads per @wsj https://t.",
+      "text": "AI led to big employment boost for mid-career execs (35-40, 41-49), losses for Early Career (22-25), near 5 year highs for unemployment for recent college grads per @wsj https://t.co/F7iHessMth",
+      "draft_en": "AI led to big employment boost for mid-career execs (35-40, 41-49), losses for Early Career (22-25), near 5 year highs for unemployment for recent college grads per @wsj https://t.co/F7iHessMth\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/jasonlk/status/2103871675276345657",
+      "status_url": "https://x.com/jasonlk/status/2103871675276345657",
+      "posted_at": "2026-09-26T11:37:50-04:00"
+    },
+    {
+      "name": "GREG ISENBERG",
+      "display_name": "GREG ISENBERG",
+      "handle": "@gregisenberg",
+      "views": 13127,
+      "views_label": "13.1K",
+      "highlight": true,
+      "hook": "I found my journal from the year 2000 (I was 11)",
+      "text": "I found my journal from the year 2000 (I was 11)\n\n\"in the year 2010 there will be computers everywhere\"\n\nNobody knew \"everywhere\" would mean our phones, cars, doorbells etc\n\nThe direction was obvious, but the details were impossible to see\n\nAI feels exactly like that right now! https://t.co/XMN1UMRHgT",
+      "draft_en": "I found my journal from the year 2000 (I was 11)\n\n\"in the year 2010 there will be computers everywhere\"\n\nNobody knew \"everywhere\" would mean our phones, cars, doorbells etc\n\nThe direction was obvious, but the details were impossible to see\n\nAI feels exactly like that right now! https://t.co/XMN1UMRHgT\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/gregisenberg/status/2104321321605706040",
+      "status_url": "https://x.com/gregisenberg/status/2104321321605706040",
+      "posted_at": "2026-09-27T17:24:34-04:00"
+    },
+    {
+      "name": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "display_name": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "handle": "@jasonlk",
+      "views": 12189,
+      "views_label": "12.2K",
+      "highlight": true,
+      "hook": "Two things I'll never understand:",
+      "text": "Two things I'll never understand:\n\n3 day AGMs\n2 day board meetings",
+      "draft_en": "Two things I'll never understand:\n\n3 day AGMs\n2 day board meetings\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/jasonlk/status/2103675927473615014",
+      "status_url": "https://x.com/jasonlk/status/2103675927473615014",
+      "posted_at": "2026-09-25T22:40:00-04:00"
+    },
+    {
+      "name": "KippBodnar.eth",
+      "display_name": "KippBodnar.eth",
+      "handle": "@kippbodnar",
+      "views": 9102,
+      "views_label": "9,102",
+      "highlight": true,
+      "hook": "This is a near perfect song and performance.",
+      "text": "This is a near perfect song and performance.",
+      "draft_en": "This is a near perfect song and performance.\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/kippbodnar/status/2103981603932319920",
+      "status_url": "https://x.com/kippbodnar/status/2103981603932319920",
+      "posted_at": "2026-09-26T18:54:39-04:00"
+    },
+    {
+      "name": "Lenny Rachitsky",
+      "display_name": "Lenny Rachitsky",
+      "handle": "@lennysan",
+      "views": 8911,
+      "views_label": "8,911",
+      "highlight": true,
+      "hook": "\"Change sucks. It can be awesome, but we don't have to be fluffy bunnies about this. We can also just say this is hard. Sometimes you need to throw a funeral for things. Let's take",
+      "text": "\"Change sucks. It can be awesome, but we don't have to be fluffy bunnies about this. We can also just say this is hard. Sometimes you need to throw a funeral for things. Let's take a minute and mourn what was, but then let's ask what could be.\" https://t.co/FsbQegJdmx",
+      "draft_en": "\"Change sucks. It can be awesome, but we don't have to be fluffy bunnies about this. We can also just say this is hard. Sometimes you need to throw a funeral for things. Let's take a minute and mourn what was, but then let's ask what could be.\" https://t.co/FsbQegJdmx\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/lennysan/status/2104334013930361154",
+      "status_url": "https://x.com/lennysan/status/2104334013930361154",
+      "posted_at": "2026-09-27T18:15:00-04:00"
+    },
+    {
+      "name": "Neil Patel",
+      "display_name": "Neil Patel",
+      "handle": "@neilpatel",
+      "views": 8779,
+      "views_label": "8,779",
+      "highlight": true,
+      "hook": "Most businesses cover a little bit of everything. AI wants to recommend experts, not people who kind of understand something. Pick your topic. Go deep. Own it. Topical authority is",
+      "text": "Most businesses cover a little bit of everything. AI wants to recommend experts, not people who kind of understand something. Pick your topic. Go deep. Own it. Topical authority is one of six ways to get AI to recommend your business, and it's one of the easiest to start on this https://t.co/U0hEklOTol",
+      "draft_en": "Most businesses cover a little bit of everything. AI wants to recommend experts, not people who kind of understand something. Pick your topic. Go deep. Own it. Topical authority is one of six ways to get AI to recommend your business, and it's one of the easiest to start on this https://t.co/U0hEklOTol\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/neilpatel/status/2103907539284881749",
+      "status_url": "https://x.com/neilpatel/status/2103907539284881749",
+      "posted_at": "2026-09-26T14:00:20-04:00"
+    },
+    {
+      "name": "Neil Patel",
+      "display_name": "Neil Patel",
+      "handle": "@neilpatel",
+      "views": 8562,
+      "views_label": "8,562",
+      "highlight": true,
+      "hook": "Marketers are doing GEO wrong.",
+      "text": "Marketers are doing GEO wrong.\n\nWhat they \"say\" they optimize for is different than what the business \"cares\" about.\n\nLook at the data. Make sure your efforts focus on what the business cares about. https://t.co/OrFBTE2ClT",
+      "draft_en": "Marketers are doing GEO wrong.\n\nWhat they \"say\" they optimize for is different than what the business \"cares\" about.\n\nLook at the data. Make sure your efforts focus on what the business cares about. https://t.co/OrFBTE2ClT\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/neilpatel/status/2103816868641620225",
+      "status_url": "https://x.com/neilpatel/status/2103816868641620225",
+      "posted_at": "2026-09-26T08:00:03-04:00"
+    },
+    {
+      "name": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "display_name": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "handle": "@jasonlk",
+      "views": 8444,
+      "views_label": "8,444",
+      "highlight": true,
+      "hook": "Feels like my entire LinkedIn feed this week is GTM leaders going to OpenAI",
+      "text": "Feels like my entire LinkedIn feed this week is GTM leaders going to OpenAI",
+      "draft_en": "Feels like my entire LinkedIn feed this week is GTM leaders going to OpenAI\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/jasonlk/status/2103964579634000334",
+      "status_url": "https://x.com/jasonlk/status/2103964579634000334",
+      "posted_at": "2026-09-26T17:47:00-04:00"
+    },
+    {
+      "name": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "display_name": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "handle": "@jasonlk",
+      "views": 8090,
+      "views_label": "8,090",
+      "highlight": true,
+      "hook": "So we vibe coded our own Calendly++.  Why the heck would you do this, when Calendly is cheap, proven, and just works well?",
+      "text": "So we vibe coded our own Calendly++.  Why the heck would you do this, when Calendly is cheap, proven, and just works well?\n\nWell two reasons:\n\n#1. First, our agent 10K strongly recommended it.  He said he’d build it himself.\n\nNow this isn’t a reason to build it yourself.  But it",
+      "draft_en": "So we vibe coded our own Calendly++.  Why the heck would you do this, when Calendly is cheap, proven, and just works well?\n\nWell two reasons:\n\n#1. First, our agent 10K strongly recommended it.  He said he’d build it himself.\n\nNow this isn’t a reason to build it yourself.  But it\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/jasonlk/status/2104318737541439638",
+      "status_url": "https://x.com/jasonlk/status/2104318737541439638",
+      "posted_at": "2026-09-27T17:14:18-04:00"
+    },
+    {
+      "name": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "display_name": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "handle": "@jasonlk",
+      "views": 7791,
+      "views_label": "7,791",
+      "highlight": true,
+      "hook": "\"If growth has slowed for you, it's simple:",
+      "text": "\"If growth has slowed for you, it's simple:\n\nYou aren't grabbing AI budget.\n\nEverything else is getting cut to fund new AI apps, AI spend, and also, price increases from existing core apps.\n\nEveryone is cutting old ones to make room for the new.\" https://t.co/AplHZptIOn",
+      "draft_en": "\"If growth has slowed for you, it's simple:\n\nYou aren't grabbing AI budget.\n\nEverything else is getting cut to fund new AI apps, AI spend, and also, price increases from existing core apps.\n\nEveryone is cutting old ones to make room for the new.\" https://t.co/AplHZptIOn\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/jasonlk/status/2103793703705776146",
+      "status_url": "https://x.com/jasonlk/status/2103793703705776146",
+      "posted_at": "2026-09-26T06:28:00-04:00"
+    },
+    {
+      "name": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "display_name": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "handle": "@jasonlk",
+      "views": 7775,
+      "views_label": "7,775",
+      "highlight": true,
+      "hook": "New!! Anthropic Pushes Its $2 Trillion IPO to November, Meta's Muse Hits #1, and a $40M Seed for a Model That Doesn't Talk",
+      "text": "New!! Anthropic Pushes Its $2 Trillion IPO to November, Meta's Muse Hits #1, and a $40M Seed for a Model That Doesn't Talk\n\n10 learnings from this week's 20VC x SaaStr. What VCs and LPs do when everyone agrees we may be near the top of the cycle.\n\nhttps://t.co/F99eJ0WO2C",
+      "draft_en": "New!! Anthropic Pushes Its $2 Trillion IPO to November, Meta's Muse Hits #1, and a $40M Seed for a Model That Doesn't Talk\n\n10 learnings from this week's 20VC x SaaStr. What VCs and LPs do when everyone agrees we may be near the top of the cycle.\n\nhttps://t.co/F99eJ0WO2C\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/jasonlk/status/2103657854703943696",
+      "status_url": "https://x.com/jasonlk/status/2103657854703943696",
+      "posted_at": "2026-09-25T21:28:11-04:00"
+    },
+    {
+      "name": "Ethan Mollick",
+      "display_name": "Ethan Mollick",
+      "handle": "@emollick",
+      "views": 7417,
+      "views_label": "7,417",
+      "highlight": true,
+      "hook": "There is always talk on X about how networks like BlueSky are full of people who believe AI doesn't work (this is less true than it used to be), but LinkedIn is full of insane semi",
+      "text": "There is always talk on X about how networks like BlueSky are full of people who believe AI doesn't work (this is less true than it used to be), but LinkedIn is full of insane semi-technical slop advice like this.\n\nWhy are they not reporting BLEU, ROUGE &amp; BERTScore for Astra?  🤔 https://t.co/9CTMBJCRIN",
+      "draft_en": "There is always talk on X about how networks like BlueSky are full of people who believe AI doesn't work (this is less true than it used to be), but LinkedIn is full of insane semi-technical slop advice like this.\n\nWhy are they not reporting BLEU, ROUGE &amp; BERTScore for Astra?  🤔 https://t.co/9CTMBJCRIN\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/emollick/status/2104352301431308578",
+      "status_url": "https://x.com/emollick/status/2104352301431308578",
+      "posted_at": "2026-09-27T19:27:40-04:00"
+    },
+    {
+      "name": "Ross Simmonds",
+      "display_name": "Ross Simmonds",
+      "handle": "@TheCoolestCool",
+      "views": 7283,
+      "views_label": "7,283",
+      "highlight": true,
+      "hook": "When you realize the power of this tech… https://t.co/zCK14UwwEA",
+      "text": "When you realize the power of this tech… https://t.co/zCK14UwwEA",
+      "draft_en": "When you realize the power of this tech… https://t.co/zCK14UwwEA\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/TheCoolestCool/status/2104185899491750129",
+      "status_url": "https://x.com/TheCoolestCool/status/2104185899491750129",
+      "posted_at": "2026-09-27T08:26:26-04:00"
+    },
+    {
+      "name": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "display_name": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "handle": "@jasonlk",
+      "views": 6510,
+      "views_label": "6,510",
+      "highlight": true,
+      "hook": "\"The #1 thing that undermines confidence in a CRO: Unexpected Bad News.",
+      "text": "\"The #1 thing that undermines confidence in a CRO: Unexpected Bad News.\n\nA CRO should have real visibility into the new few months. They may come in a bit above or below plan.\n\nBut there shouldn't be massive variances.\n\nIf so, the plan was Hope-ium.\" https://t.co/ASbOGcOQs1",
+      "draft_en": "\"The #1 thing that undermines confidence in a CRO: Unexpected Bad News.\n\nA CRO should have real visibility into the new few months. They may come in a bit above or below plan.\n\nBut there shouldn't be massive variances.\n\nIf so, the plan was Hope-ium.\" https://t.co/ASbOGcOQs1\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/jasonlk/status/2104158859745194183",
+      "status_url": "https://x.com/jasonlk/status/2104158859745194183",
+      "posted_at": "2026-09-27T06:39:00-04:00"
+    },
+    {
+      "name": "Neil Patel",
+      "display_name": "Neil Patel",
+      "handle": "@neilpatel",
+      "views": 5328,
+      "views_label": "5,328",
+      "highlight": true,
+      "hook": "Corporate hears \"this builds the brand.\" The operator hears \"this doesn't pay me this month.\" Same words, two different bank accounts. When the company runs on royalties and the lo",
+      "text": "Corporate hears \"this builds the brand.\" The operator hears \"this doesn't pay me this month.\" Same words, two different bank accounts. When the company runs on royalties and the locations run on margin, a win at the top can be a loss at the bottom. Franchisees think corporate is https://t.co/43eycdMC9M",
+      "draft_en": "Corporate hears \"this builds the brand.\" The operator hears \"this doesn't pay me this month.\" Same words, two different bank accounts. When the company runs on royalties and the locations run on margin, a win at the top can be a loss at the bottom. Franchisees think corporate is https://t.co/43eycdMC9M\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/neilpatel/status/2103967896758022441",
+      "status_url": "https://x.com/neilpatel/status/2103967896758022441",
+      "posted_at": "2026-09-26T18:00:11-04:00"
+    },
+    {
+      "name": "Neil Patel",
+      "display_name": "Neil Patel",
+      "handle": "@neilpatel",
+      "views": 4527,
+      "views_label": "4,527",
+      "highlight": false,
+      "hook": "Have you ever thought about how \"culture\" affects marketing?",
+      "text": "Have you ever thought about how \"culture\" affects marketing?\n\nIt's sadly not as simple as one might think, because it varies widely depending on the stage or even the tactic.\n\nBut look at how culture impacts different areas in marketing. https://t.co/8pxQRDm5h8",
+      "draft_en": "Have you ever thought about how \"culture\" affects marketing?\n\nIt's sadly not as simple as one might think, because it varies widely depending on the stage or even the tactic.\n\nBut look at how culture impacts different areas in marketing. https://t.co/8pxQRDm5h8\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/neilpatel/status/2104179253784834150",
+      "status_url": "https://x.com/neilpatel/status/2104179253784834150",
+      "posted_at": "2026-09-27T08:00:02-04:00"
+    },
+    {
+      "name": "KP",
+      "display_name": "KP",
+      "handle": "@thisiskp_",
+      "views": 4068,
+      "views_label": "4,068",
+      "highlight": false,
+      "hook": "I asked Claude how it made this",
+      "text": "I asked Claude how it made this \n\nHere is the response:\n\n“It's made frame by frame from code, with no motion design app involved. I wrote a small animation engine in JavaScript where every element (the type, shapes, particles and the 3D orbit) is a function of time, measured in",
+      "draft_en": "I asked Claude how it made this \n\nHere is the response:\n\n“It's made frame by frame from code, with no motion design app involved. I wrote a small animation engine in JavaScript where every element (the type, shapes, particles and the 3D orbit) is a function of time, measured in\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/thisiskp_/status/2103679410507243697",
+      "status_url": "https://x.com/thisiskp_/status/2103679410507243697",
+      "posted_at": "2026-09-25T22:53:50-04:00"
+    },
+    {
+      "name": "Neil Patel",
+      "display_name": "Neil Patel",
+      "handle": "@neilpatel",
+      "views": 3542,
+      "views_label": "3,542",
+      "highlight": false,
+      "hook": "Getting cited by AI and making money from AI aren't the same thing. How-to guides, listicles, FAQs, alternatives pages and comparison pages all get pulled into answers. But when so",
+      "text": "Getting cited by AI and making money from AI aren't the same thing. How-to guides, listicles, FAQs, alternatives pages and comparison pages all get pulled into answers. But when someone is deciding what to buy, the comparison page is the one that sends them to you. Save this https://t.co/OqfskQzCnz",
+      "draft_en": "Getting cited by AI and making money from AI aren't the same thing. How-to guides, listicles, FAQs, alternatives pages and comparison pages all get pulled into answers. But when someone is deciding what to buy, the comparison page is the one that sends them to you. Save this https://t.co/OqfskQzCnz\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/neilpatel/status/2104269895747727432",
+      "status_url": "https://x.com/neilpatel/status/2104269895747727432",
+      "posted_at": "2026-09-27T14:00:13-04:00"
+    },
+    {
+      "name": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "display_name": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "handle": "@jasonlk",
+      "views": 3147,
+      "views_label": "3,147",
+      "highlight": false,
+      "hook": "The SaaSpocolypse does seem to be behind us",
+      "text": "The SaaSpocolypse does seem to be behind us\n\nBut the reasons behind it aren’t https://t.co/mjcUIezDuY",
+      "draft_en": "The SaaSpocolypse does seem to be behind us\n\nBut the reasons behind it aren’t https://t.co/mjcUIezDuY\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/jasonlk/status/2104353990809129155",
+      "status_url": "https://x.com/jasonlk/status/2104353990809129155",
+      "posted_at": "2026-09-27T19:34:23-04:00"
+    },
+    {
+      "name": "KP",
+      "display_name": "KP",
+      "handle": "@thisiskp_",
+      "views": 2352,
+      "views_label": "2,352",
+      "highlight": false,
+      "hook": "LLMs aka Large Language Models",
+      "text": "LLMs aka Large Language Models \n\nHow do they work?\n\nHere’s a 1 min explainer 👀 https://t.co/PM2hHrJzjX",
+      "draft_en": "LLMs aka Large Language Models \n\nHow do they work?\n\nHere’s a 1 min explainer 👀 https://t.co/PM2hHrJzjX\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/thisiskp_/status/2104228026703601838",
+      "status_url": "https://x.com/thisiskp_/status/2104228026703601838",
+      "posted_at": "2026-09-27T11:13:50-04:00"
+    },
+    {
+      "name": "KP",
+      "display_name": "KP",
+      "handle": "@thisiskp_",
+      "views": 2273,
+      "views_label": "2,273",
+      "highlight": false,
+      "hook": "Imagine 8 billion people who can now dream and get things done thx to the help of AI",
+      "text": "Imagine 8 billion people who can now dream and get things done thx to the help of AI\n\nThat’s the future potential with agents \n\nStoked for @muse mission 👏",
+      "draft_en": "Imagine 8 billion people who can now dream and get things done thx to the help of AI\n\nThat’s the future potential with agents \n\nStoked for @muse mission 👏\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/thisiskp_/status/2103655280684757472",
+      "status_url": "https://x.com/thisiskp_/status/2103655280684757472",
+      "posted_at": "2026-09-25T21:17:57-04:00"
+    },
+    {
+      "name": "KP",
+      "display_name": "KP",
+      "handle": "@thisiskp_",
+      "views": 2259,
+      "views_label": "2,259",
+      "highlight": false,
+      "hook": "Called it https://t.co/NMCFR6QsKc",
+      "text": "Called it https://t.co/NMCFR6QsKc",
+      "draft_en": "Called it https://t.co/NMCFR6QsKc\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/thisiskp_/status/2103917462693498921",
+      "status_url": "https://x.com/thisiskp_/status/2103917462693498921",
+      "posted_at": "2026-09-26T14:39:46-04:00"
+    },
+    {
+      "name": "KP",
+      "display_name": "KP",
+      "handle": "@thisiskp_",
+      "views": 2214,
+      "views_label": "2,214",
+      "highlight": false,
+      "hook": "Want to meet some amazing @Netlify team members and share your builds &amp; feedback?",
+      "text": "Want to meet some amazing @Netlify team members and share your builds &amp; feedback?\n\nJoin us in Barcelona! ☀️ \n\nOur CTO Dana, CPO Wade and many others will be at the community meetup on Oct 7.\n\nHosted by our community champions and local hosts Matt Roberts and @picsoung 🤝",
+      "draft_en": "Want to meet some amazing @Netlify team members and share your builds &amp; feedback?\n\nJoin us in Barcelona! ☀️ \n\nOur CTO Dana, CPO Wade and many others will be at the community meetup on Oct 7.\n\nHosted by our community champions and local hosts Matt Roberts and @picsoung 🤝\n\n(Lane draft pending Trends chips — Limitless / Innovator / MTO1 walls.)",
+      "video_tip": "8–12s talking-head or screen-capture beat that restates the hook in one visual punch.",
+      "url": "https://x.com/thisiskp_/status/2104002654687154241",
+      "status_url": "https://x.com/thisiskp_/status/2104002654687154241",
+      "posted_at": "2026-09-26T20:18:18-04:00"
+    }
+  ],
   "virals": [],
   "outsiders": [],
   "patterns": [
-    "example-pattern"
+    "https://t.co/ycmy4OWzKJ",
+    "1. The idea that “society” has prevented Brandon Flowers fro",
+    "We are going to learn how many systems only work today becau",
+    "The people who get to $5m at 45 aren’t the type of people wh",
+    "Leaving aside the arguments over the reasons why this has ha",
+    "It is strange how much LLMs turned out to be the key to such"
   ],
   "no_hits": [
     {
-      "handle": "@example_quiet",
-      "reason": "No unpinned day original reached 5,000 views; highest observed was 1,200 views.",
-      "max_views": 1200
+      "handle": "@searchbrat",
+      "reason": "no tweets returned by apify",
+      "max_views": 0
+    },
+    {
+      "handle": "@dharmesh",
+      "reason": "no originals in 48h window",
+      "max_views": 0
+    },
+    {
+      "handle": "@davegerhardt",
+      "reason": "no originals in 48h window",
+      "max_views": 1307
+    },
+    {
+      "handle": "@randfish",
+      "reason": "no originals in 48h window",
+      "max_views": 0
+    },
+    {
+      "handle": "@annhandley",
+      "reason": "no tweets returned by apify",
+      "max_views": 0
+    },
+    {
+      "handle": "@sama",
+      "reason": "no originals in 48h window",
+      "max_views": 2432310
+    },
+    {
+      "handle": "@AndrewYNg",
+      "reason": "no tweets returned by apify",
+      "max_views": 0
+    },
+    {
+      "handle": "@karpathy",
+      "reason": "no originals in 48h window",
+      "max_views": 0
+    },
+    {
+      "handle": "@swyx",
+      "reason": "no originals in 48h window",
+      "max_views": 26055
     }
   ],
-  "virals_narrative": "Short outsider synthesis goes here.",
-  "narrative_synthesis": "Short outsider synthesis goes here.",
+  "virals_narrative": "Outsider AI pass deferred on this one-shot; watchlist hits only.",
+  "narrative_synthesis": "One-shot Start-20 scout: 48 hits (40 stars), 9 quiet handles. Top heat: Greg Isenberg, Bucci, Ethan Mollick, Lenny, Jason Lemkin.",
   "virals_window": "last ~48h",
   "virals_target": 20,
-  "hits_count": 0,
+  "hits_count": 48,
   "outsiders_count": 0,
   "previous_day": {
-    "date": "2026-09-14",
+    "date": "2026-09-26",
     "hits_count": 0,
     "total_views": 0,
     "x_score": 0
   },
   "leaderboards": {
-    "as_of": "2026-09-15",
-    "tracking_start": "2026-09-13",
+    "as_of": "2026-09-27",
+    "tracking_start": "2026-09-27",
     "days_included": [
-      "2026-09-09",
-      "2026-09-10",
-      "2026-09-11",
-      "2026-09-12",
-      "2026-09-13",
-      "2026-09-14",
-      "2026-09-15"
+      "2026-09-27"
     ],
     "month_days_included": [
-      "2026-09-13",
-      "2026-09-14",
-      "2026-09-15"
+      "2026-09-27"
     ],
     "week": {
-      "label": "Rolling week \u00b7 Sep 9\u2013Sep 15",
+      "label": "Pilot day · Sep 27",
       "range": [
-        "2026-09-09",
-        "2026-09-15"
+        "2026-09-27",
+        "2026-09-27"
       ],
-      "entries": []
+      "entries": [
+        {
+          "handle": "@gregisenberg",
+          "name": "GREG ISENBERG",
+          "best": 1303374,
+          "total": 1340812
+        },
+        {
+          "handle": "@buccocapital",
+          "name": "BuccoCapital Bloke",
+          "best": 247199,
+          "total": 553121
+        },
+        {
+          "handle": "@emollick",
+          "name": "Ethan Mollick",
+          "best": 237120,
+          "total": 740796
+        },
+        {
+          "handle": "@lennysan",
+          "name": "Lenny Rachitsky",
+          "best": 38572,
+          "total": 120641
+        },
+        {
+          "handle": "@jasonlk",
+          "name": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+          "best": 30818,
+          "total": 165737
+        },
+        {
+          "handle": "@alliekmiller",
+          "name": "Allie K. Miller",
+          "best": 17436,
+          "total": 32455
+        },
+        {
+          "handle": "@larrykim",
+          "name": "Larry Kim",
+          "best": 17213,
+          "total": 17213
+        },
+        {
+          "handle": "@kippbodnar",
+          "name": "KippBodnar.eth",
+          "best": 9102,
+          "total": 9102
+        },
+        {
+          "handle": "@neilpatel",
+          "name": "Neil Patel",
+          "best": 8779,
+          "total": 30738
+        },
+        {
+          "handle": "@TheCoolestCool",
+          "name": "Ross Simmonds",
+          "best": 7283,
+          "total": 7283
+        }
+      ]
     },
     "month": {
-      "label": "September 2026 \u00b7 from Sep 13",
+      "label": "September 2026 · from Sep 27",
       "range": [
-        "2026-09-13",
-        "2026-09-15"
+        "2026-09-27",
+        "2026-09-27"
       ],
-      "entries": []
+      "entries": [
+        {
+          "handle": "@gregisenberg",
+          "name": "GREG ISENBERG",
+          "best": 1303374,
+          "total": 1340812
+        },
+        {
+          "handle": "@buccocapital",
+          "name": "BuccoCapital Bloke",
+          "best": 247199,
+          "total": 553121
+        },
+        {
+          "handle": "@emollick",
+          "name": "Ethan Mollick",
+          "best": 237120,
+          "total": 740796
+        },
+        {
+          "handle": "@lennysan",
+          "name": "Lenny Rachitsky",
+          "best": 38572,
+          "total": 120641
+        },
+        {
+          "handle": "@jasonlk",
+          "name": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+          "best": 30818,
+          "total": 165737
+        },
+        {
+          "handle": "@alliekmiller",
+          "name": "Allie K. Miller",
+          "best": 17436,
+          "total": 32455
+        },
+        {
+          "handle": "@larrykim",
+          "name": "Larry Kim",
+          "best": 17213,
+          "total": 17213
+        },
+        {
+          "handle": "@kippbodnar",
+          "name": "KippBodnar.eth",
+          "best": 9102,
+          "total": 9102
+        },
+        {
+          "handle": "@neilpatel",
+          "name": "Neil Patel",
+          "best": 8779,
+          "total": 30738
+        },
+        {
+          "handle": "@TheCoolestCool",
+          "name": "Ross Simmonds",
+          "best": 7283,
+          "total": 7283
+        }
+      ]
     }
   },
   "board_features": {
@@ -88,6 +968,103 @@
   "ui": {
     "default_theme": "night"
   },
-  "day_roster": [],
-  "you_rank": null
+  "day_roster": [
+    {
+      "handle": "@gregisenberg",
+      "name": "GREG ISENBERG",
+      "views": 1303374,
+      "best": 1303374,
+      "total": 1340812,
+      "hit": true
+    },
+    {
+      "handle": "@buccocapital",
+      "name": "BuccoCapital Bloke",
+      "views": 247199,
+      "best": 247199,
+      "total": 553121,
+      "hit": true
+    },
+    {
+      "handle": "@emollick",
+      "name": "Ethan Mollick",
+      "views": 237120,
+      "best": 237120,
+      "total": 740796,
+      "hit": true
+    },
+    {
+      "handle": "@lennysan",
+      "name": "Lenny Rachitsky",
+      "views": 38572,
+      "best": 38572,
+      "total": 120641,
+      "hit": true
+    },
+    {
+      "handle": "@jasonlk",
+      "name": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "views": 30818,
+      "best": 30818,
+      "total": 165737,
+      "hit": true
+    },
+    {
+      "handle": "@alliekmiller",
+      "name": "Allie K. Miller",
+      "views": 17436,
+      "best": 17436,
+      "total": 32455,
+      "hit": true
+    },
+    {
+      "handle": "@larrykim",
+      "name": "Larry Kim",
+      "views": 17213,
+      "best": 17213,
+      "total": 17213,
+      "hit": true
+    },
+    {
+      "handle": "@kippbodnar",
+      "name": "KippBodnar.eth",
+      "views": 9102,
+      "best": 9102,
+      "total": 9102,
+      "hit": true
+    },
+    {
+      "handle": "@neilpatel",
+      "name": "Neil Patel",
+      "views": 8779,
+      "best": 8779,
+      "total": 30738,
+      "hit": true
+    },
+    {
+      "handle": "@TheCoolestCool",
+      "name": "Ross Simmonds",
+      "views": 7283,
+      "best": 7283,
+      "total": 7283,
+      "hit": true
+    },
+    {
+      "handle": "@thisiskp_",
+      "name": "KP",
+      "views": 4068,
+      "best": 4068,
+      "total": 13166,
+      "hit": true
+    }
+  ],
+  "you_rank": null,
+  "x_score": 100,
+  "scout_meta": {
+    "window": "48h",
+    "min_views": 2000,
+    "star_views": 5000,
+    "method": "apidojo/twitter-profile-scraper",
+    "run_id": "nTJdZsOaacaevFTEB"
+  }
 }
